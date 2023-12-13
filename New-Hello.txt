@@ -1,1 +1,2 @@
 This is just a file to test Git staging and commit
+Now this is second line I want to add
